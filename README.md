@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nick! <br/><a href="https://github.com/thenicktorres">Inspired Future Cybersecurity Engineer </a>, <a href="www.linkedin.com/in/nick-torres11">
+<h1>Hey, I'm Nick! <br/><a href="https://github.com/thenicktorres">Inspired Future Cybersecurity Engineer </a>, <a href="www.linkedin.com/in/nick-torres11">
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
