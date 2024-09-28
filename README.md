@@ -6,11 +6,11 @@
 - <b>Home Labs</b>
   - SIEM Azure Sentinel Map w/ live cyber attacks(https://github.com/)
 
-- <b>Java</b>
-  -Connect Four Game
+- <b>Fun Java Projects</b>
+  - Connect Four Game (https://github.com/)
   
 - <b>Python</b>
-   -Password Manager & Generator w/ SHA-256 (https://github.com/)
+  - Password Manager & Generator w/ SHA-256 (https://github.com/)
 
 <
 <h2> 🤳 Connect with me:</h2>
