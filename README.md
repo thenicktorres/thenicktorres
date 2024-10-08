@@ -17,10 +17,9 @@
 
 
 [<img align="left" alt="NickTorres | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="NickTorres | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/nic.torress/
+
 [linkedin]: https://linkedin.com/in/nick-torres11
 
 <!--
