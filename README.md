@@ -10,7 +10,7 @@
   - Connect Four Game (https://github.com/)
   
 - <b>Python</b>
-  - Password Manager & Generator w/ SHA-256 (https://github.com/)
+  - Password Manager & Generator w/ SHA-256 ([https://github.com/](https://github.com/thenicktorres/Password-Generator-Manager-w-SHA-256))
 
 <
 <h2> 🤳 Connect with me:</h2>
