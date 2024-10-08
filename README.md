@@ -4,7 +4,7 @@
 
 
 - <b>Home Labs</b>
-  - SIEM Azure Sentinel Map w/ live cyber attacks(https://github.com/)
+  - SIEM Azure Sentinel Map w/ live cyber attacks(https://github.com/thenicktorres/honeypot-script-for-azure-sentinel-map/blob/main/honeypotScript.ps1)
 
 - <b>Fun Java Projects</b>
   - Connect Four Game (https://github.com/thenicktorres/Connect-Four-Game-in-Java)
