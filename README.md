@@ -7,7 +7,7 @@
   - SIEM Azure Sentinel Map w/ live cyber attacks(https://github.com/)
 
 - <b>Fun Java Projects</b>
-  - Connect Four Game (https://github.com/)
+  - Connect Four Game (https://github.com/thenicktorres/Connect-Four-Game-in-Java)
   
 - <b>Python</b>
   - Password Manager & Generator w/ SHA-256 ([https://github.com/](https://github.com/thenicktorres/Password-Generator-Manager-w-SHA-256))
