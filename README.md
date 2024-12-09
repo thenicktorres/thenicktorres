@@ -5,12 +5,14 @@
 
 - <b>Home Labs</b>
   - SIEM Azure Sentinel Map w/ live cyber attacks(https://github.com/thenicktorres/honeypot-script-for-azure-sentinel-map/blob/main/honeypotScript.ps1)
+  - Secure Database Integration for E-Commerce Cleats Store(https://github.com/thenicktorres/)
 
 - <b>Fun Java Projects</b>
   - Connect Four Game (https://github.com/thenicktorres/Connect-Four-Game-in-Java)
   
 - <b>Python</b>
   - Password Manager & Generator w/ SHA-256 (https://github.com/thenicktorres/Password-Generator-Manager-w-SHA-256)
+
 
 <
 <h2> 🤳 Connect with me:</h2>
