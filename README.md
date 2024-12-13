@@ -3,11 +3,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-- <b>Home Labs</b>
+- <b>Projects</b>
   - SIEM Azure Sentinel Map w/ live cyber attacks(https://github.com/thenicktorres/honeypot-script-for-azure-sentinel-map/blob/main/honeypotScript.ps1)
   - Secure Database Integration for E-Commerce Cleats Store([https://github.com/thenicktorres/](https://github.com/thenicktorres/Secure-Database-Integration))
 
-- <b>Fun Java Projects</b>
+- <b>Java</b>
   - Connect Four Game (https://github.com/thenicktorres/Connect-Four-Game-in-Java)
   
 - <b>Python</b>
