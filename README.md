@@ -13,7 +13,7 @@
 - <b>Python</b>
   - Password Manager & Generator w/ SHA-256 (https://github.com/thenicktorres/Password-Generator-Manager-w-SHA-256)
   - Encryption Algorithm (Soon to come...)
-  - Website Vulnerability Scanner (https://github.com/thenicktorres/)
+  - Website Vulnerability Scanner (https://github.com/thenicktorres/Simple-Web-Application-Security-Scanner-with-Python/blob/main/Scanner.py)
 
 
 <
