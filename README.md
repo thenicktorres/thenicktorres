@@ -1,31 +1,42 @@
-<h1>Hey there!, <br/><a href="https://github.com/thenicktorres">Inspired Future Cybersecurity Engineer/Digital Forensics Investigator</a>, <a href="www.linkedin.com/in/nick-torres11">
+## Hey there! 👋  
 
-<h2>👨‍💻 Cybersecurity Projects & Labs:</h2>
+I’m Nick, a 3rd year Computer Science student at UGA with a concentration in Cybersecurity.  
 
+I enjoy researching digital forensics, incident response, GRC, and AI Security
 
-- <b>Projects</b>
-  - SIEM Azure Sentinel Map w/ live cyber attacks(https://github.com/thenicktorres/honeypot-script-for-azure-sentinel-map/blob/main/honeypotScript.ps1)
-  - Secure Database Integration for E-Commerce Cleats Store([https://github.com/thenicktorres/](https://github.com/thenicktorres/Secure-Database-Integration))
+If an idea pops into my head, chances are I'll research it and build it. 
 
-- <b>Java</b>
-  - Connect Four Game (https://github.com/thenicktorres/Connect-Four-Game-in-Java)
+---
+
+### 🧰 Tech Stack
+**Main:** Java, Python, Javascript, SQL, R
+
+**Tools:**  Linux, MacOS, Windows
+
+---
+
+### 👨‍💻 Cybersecurity Tools/Projects
+- SIEM Azure Sentinel Map w/ live cyber attacks(https://github.com/thenicktorres/honeypot-script-for-azure-sentinel-map/blob/main/honeypotScript.ps1) 
+- Password Manager & Generator w/ SHA-256 (https://github.com/thenicktorres/Password-Generator-Manager-w-SHA-256) 
+- Web Application Security Scanner with Python (https://github.com/thenicktorres/Simple-Web-Application-Security-Scanner-with-Python/blob/main/Scanner.py)
   
-- <b>Python</b>
-  - Password Manager & Generator w/ SHA-256 (https://github.com/thenicktorres/Password-Generator-Manager-w-SHA-256)
-  - Web Application Security Scanner with Python (https://github.com/thenicktorres/Simple-Web-Application-Security-Scanner-with-Python/blob/main/Scanner.py)
-  - Encryption Algorithm (Coming soon...)
-  - Credit Card AI Fraud Detector (In Progress...)
+---
 
+### 📚 Fun Facts
+-  I have a German Shepherd
+-  I am from Atlanta but consider Goiania, Brazil to be home
+-  I love soccer and played it all my life  
+-  Hobbies: Gym, soccer, ✝️, cooking, hiking, lego building  
 
-<
-<h2> 🤳 Connect with me:</h2>
+---
 
-
+### 🤳 Connect with me
 [<img align="left" alt="NickTorres | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
 [linkedin]: https://linkedin.com/in/nick-torres11
+
 
 <!--
 
