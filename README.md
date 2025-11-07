@@ -24,8 +24,8 @@ If an idea pops into my head, chances are I'll research it and build it.
 
 ### 📚 Fun Facts
 -  I have a German Shepherd
--  I am from Atlanta but consider Goiania, Brazil to be home
--  I love soccer and played it all my life  
+-  I am from Georgia but consider Brazil to be home
+-  I love soccer and played it since I was 6  
 -  Hobbies: Gym, soccer, ✝️, cooking, hiking, lego building  
 
 ---
