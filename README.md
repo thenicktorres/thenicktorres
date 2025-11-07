@@ -30,13 +30,3 @@ If an idea pops into my head, chances are I'll research it and build it.
 
 ---
 
-### 🤳 Connect with me
-[<img align="left" alt="NickTorres | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-[linkedin]: https://linkedin.com/in/nick-torres11
-
-
-<!--
-
