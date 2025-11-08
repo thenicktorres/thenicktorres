@@ -4,7 +4,11 @@ I’m Nick, a 3rd year Computer Science student at UGA with a concentration in C
 
 I enjoy researching digital forensics, incident response, GRC, and AI Security
 
+If I had to choose a field to get into for my career I'd probably choose Finance or Healthcare
+
 If an idea pops into my head, chances are I'll research it and build it. 
+
+...and probably brainstorm on my iPad
 
 ---
 
