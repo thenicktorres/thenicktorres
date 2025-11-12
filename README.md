@@ -26,6 +26,11 @@ If an idea pops into my head, chances are I'll research it and build it.
   
 ---
 
+### 🕵 CTF Labs
+- WebStrike Lab (https://cyberdefenders.org/blueteam-ctf-challenges/achievements/thenicktorres/webstrike/)
+
+---
+
 ### 📚 Fun Facts
 -  I have a German Shepherd!
 -  I am from Georgia but consider Brazil to be home
