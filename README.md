@@ -35,8 +35,6 @@ If an idea pops into my head, chances are I'll research it and build it.
 - WebStrike Lab (https://cyberdefenders.org/blueteam-ctf-challenges/achievements/thenicktorres/webstrike/)
 - Oski Lab (https://cyberdefenders.org/blueteam-ctf-challenges/achievements/thenicktorres/oski/)
  
-#CyberDefenders #CyberSecurity #BlueYard #BlueTeam #InfoSec #SOC #SOCAnalyst #DFIR #CCD #CyberDefender)
-
 ---
 
 ### 📚 Fun Facts
