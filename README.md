@@ -15,7 +15,7 @@ If an idea pops into my head, chances are I'll research it and build it.
 ### 🧰 Tech Stack
 **Main:** Java, Python, Javascript, SQL, R
 
-**Tools:**  Linux, MacOS, Windows
+**Tools:**  Linux, MacOS, Windows, Wireshark 
 
 ---
 
@@ -28,6 +28,9 @@ If an idea pops into my head, chances are I'll research it and build it.
 
 ### 🕵 CTF Labs
 - WebStrike Lab (https://cyberdefenders.org/blueteam-ctf-challenges/achievements/thenicktorres/webstrike/)
+- Oski Lab (https://cyberdefenders.org/blueteam-ctf-challenges/achievements/thenicktorres/oski/)
+ 
+#CyberDefenders #CyberSecurity #BlueYard #BlueTeam #InfoSec #SOC #SOCAnalyst #DFIR #CCD #CyberDefender)
 
 ---
 
