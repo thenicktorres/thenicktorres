@@ -2,7 +2,7 @@
 
 I’m Nick, a 3rd year Computer Science student at UGA with a concentration in Cybersecurity.  
 
-I enjoy researching digital forensics, incident response, GRC, and AI Security
+I'm Passionate about Blue Team operations, including digital forensics, incident response, GRC, and AI security
 
 If I had to choose a field to get into for my career I'd choose Finance or Healthcare
 
@@ -13,9 +13,14 @@ If an idea pops into my head, chances are I'll research it and build it.
 ---
 
 ### 🧰 Tech Stack
-**Main:** Java, Python, Javascript, SQL, R
 
-**Tools:**  Linux, MacOS, Windows, Wireshark 
+**Programming Languages:** Python, Java, SQL, R
+
+**Operating Systems:** Windows, Linux, macOS
+
+**Cloud / Virtualization:** Microsoft Azure, VMware 
+
+**Networking & Security Tools:** Wireshark, VirusTotal 
 
 ---
 
