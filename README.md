@@ -36,8 +36,6 @@ If an idea pops into my head, chances are I'll research it and build it.
 - Oski Lab  - Threat Intel (https://cyberdefenders.org/blueteam-ctf-challenges/achievements/thenicktorres/oski/)
 - Poisoined Credentials - Network Forensics (https://cyberdefenders.org/blueteam-ctf-challenges/achievements/thenicktorres/poisonedcredentials/)
  
-#CyberDefenders #CyberSecurity #BlueYard #BlueTeam #InfoSec #SOC #SOCAnalyst #DFIR #CCD #CyberDefender
- 
 ---
 
 ### 📚 Fun Facts
