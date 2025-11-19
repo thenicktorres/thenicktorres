@@ -35,6 +35,7 @@ If an idea pops into my head, chances are I'll research it and build it.
 - WebStrike Lab - Network Forensics (https://cyberdefenders.org/blueteam-ctf-challenges/achievements/thenicktorres/webstrike/)
 - Oski Lab  - Threat Intel (https://cyberdefenders.org/blueteam-ctf-challenges/achievements/thenicktorres/oski/)
 - Poisoined Credentials - Network Forensics (https://cyberdefenders.org/blueteam-ctf-challenges/achievements/thenicktorres/poisonedcredentials/)
+- Yellow RAT - Threat Intel (https://cyberdefenders.org/blueteam-ctf-challenges/achievements/thenicktorres/yellow-rat/)
  
 ---
 
