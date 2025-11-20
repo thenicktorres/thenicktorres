@@ -2,7 +2,7 @@
 
 I’m Nick, a 3rd year Computer Science student at UGA with a concentration in Cybersecurity.  
 
-I'm Passionate about Blue Team operations, including digital forensics, incident response, GRC, and AI security
+I'm passionate about Blue Team operations, including digital forensics, incident response, GRC, and AI security
 
 If I had to choose a field to get into for my career I'd choose Finance or Healthcare
 
