@@ -1,4 +1,4 @@
-## Hey there! 👋  
+## 👋 Hey there!   
 
 I’m Nick, a 3rd year Computer Science student at UGA with a concentration in Cybersecurity.  
 
