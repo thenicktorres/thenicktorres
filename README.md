@@ -37,6 +37,7 @@ If an idea pops into my head, chances are I'll research it and build it.
 - Poisoined Credentials - Network Forensics (https://cyberdefenders.org/blueteam-ctf-challenges/achievements/thenicktorres/poisonedcredentials/)
 - Yellow RAT - Threat Intel (https://cyberdefenders.org/blueteam-ctf-challenges/achievements/thenicktorres/yellow-rat/)
 - Amadey Lab - Endpoint Forensics (https://cyberdefenders.org/blueteam-ctf-challenges/achievements/thenicktorres/amadey/)
+- Lespion - Threat Intel (https://cyberdefenders.org/blueteam-ctf-challenges/achievements/thenicktorres/lespion/)
  
  
 ---
