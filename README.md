@@ -16,11 +16,13 @@ If an idea pops into my head, chances are I'll research it and build it.
 
 **Programming Languages:** Python, Java, SQL, R
 
-**Operating Systems:** Windows, Linux, macOS
+**Operating Systems:** Linux, macOS
 
 **Cloud / Virtualization:** Microsoft Azure, VMware 
 
 **Networking & Security Tools:** Wireshark, VirusTotal
+
+**Relevant Coursework:** Data Structures, Database Systems, Cyber Defense & Risk Management, Computer Networks & Security, Discrete Mathematics
 
 **Certifications:** CompTIA Security+, Google Cybersecurity Professional Certificate, Microsoft Office 365
 
