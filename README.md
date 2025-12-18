@@ -12,7 +12,7 @@ If an idea pops into my head, chances are I'll research it and build it.
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Skills
 
 **Programming Languages:** Python, Java, SQL, R
 
@@ -48,8 +48,9 @@ If an idea pops into my head, chances are I'll research it and build it.
 -  I have a German Shepherd!
 -  From GA but consider Brazil to be home
 -  I love soccer and played it since I was 6
+-  I love social dancing!
 -  My fav soccer team is FC Barcelona 🔵🔴🟡
--  Hobbies: Gym, soccer, ✝️, cooking, hiking, lego building  
+-  Hobbies: Gym, Soccer, ✝️, Cooking, Hiking, Salsa/Bachata Dancing, Lego building, Offroading  
 
 ---
 
