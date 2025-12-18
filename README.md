@@ -47,7 +47,7 @@ If an idea pops into my head, chances are I'll research it and build it.
 ### 📚 Fun Facts
 -  I have a German Shepherd!
 -  From GA but consider Brazil to be home
--  I love soccer and played it since I was 6
+-  I love Soccer and played it since I was 6
 -  I love social dancing!
 -  My fav soccer team is FC Barcelona 🔵🔴🟡
 -  Hobbies: Gym, Soccer, ✝️, Cooking, Hiking, Salsa/Bachata Dancing, Lego building, Offroading  
