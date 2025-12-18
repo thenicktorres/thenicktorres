@@ -20,7 +20,9 @@ If an idea pops into my head, chances are I'll research it and build it.
 
 **Cloud / Virtualization:** Microsoft Azure, VMware 
 
-**Networking & Security Tools:** Wireshark, VirusTotal 
+**Networking & Security Tools:** Wireshark, VirusTotal
+
+**Certifications:** CompTIA Security+, Google Cybersecurity Professional Certificate, Microsoft Office 365
 
 ---
 
