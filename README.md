@@ -16,7 +16,7 @@ If an idea pops into my head, chances are I'll research it and build it.
 
 **Programming Languages:** Python, Java, SQL, R
 
-**Operating Systems:** Linux, macOS
+**Operating Systems:** Linux, macOS, Windows, Unix
 
 **Cloud / Virtualization:** Microsoft Azure, VMware 
 
@@ -24,7 +24,7 @@ If an idea pops into my head, chances are I'll research it and build it.
 
 **Relevant Coursework:** Data Structures, Database Systems, Cyber Defense & Risk Management, Computer Networks, Discrete Math
 
-**Certifications:** CompTIA Security+, Google Cybersecurity Professional Certificate, Microsoft Office 365
+**Certifications:** CompTIA Security+, Google Cybersecurity Professional Certificate, AWS Certified Cloud Practicioner
 
 ---
 
