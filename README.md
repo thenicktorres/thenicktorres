@@ -14,7 +14,7 @@ If an idea pops into my head, chances are I'll research it and build it.
 
 ### 🧰 Tech Skills
 
-**Programming Languages:** Python, Java, SQL, R
+**Programming Languages:** Python, Java, SQL, R, JavaScript (a little bit)
 
 **Operating Systems:** Linux, macOS, Windows, Unix
 
