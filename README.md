@@ -1,6 +1,6 @@
 ## 👋 Hey there!   
 
-I’m Nick, a 3rd year Computer Science student at UGA with a concentration in Cybersecurity.  
+I’m Nick, a 3rd year Computer Science student at UGA with a concentration in Cybersecurity & Privacy.  
 
 I'm passionate about Blue Team operations, including digital forensics, incident response, GRC, and AI security
 
