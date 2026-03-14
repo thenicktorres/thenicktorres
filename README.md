@@ -32,7 +32,7 @@ If an idea pops into my head, chances are I'll research it and build it.
 - SIEM Azure Sentinel Map w/ live cyber attacks(https://github.com/thenicktorres/honeypot-script-for-azure-sentinel-map/blob/main/honeypotScript.ps1) 
 - Password Manager & Generator w/ SHA-256 (https://github.com/thenicktorres/Password-Generator-Manager-w-SHA-256) 
 - Web Application Security Scanner with Python (https://github.com/thenicktorres/Simple-Web-Application-Security-Scanner-with-Python/blob/main/Scanner.py)
-- AI Risk Assessment Web Extention Tool (in progress...) (https://github.com/thenicktorres/RiskAI-Scanner)
+- AI-Powered Security Risk Assessment Browser Extension (in progress...) (https://github.com/thenicktorres/RiskAI-Scanner)
   
 ---
 
