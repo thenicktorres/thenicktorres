@@ -22,7 +22,7 @@ If an idea pops into my head, chances are I'll research it and build it.
 
 **Networking & Security Tools:** Wireshark, VirusTotal
 
-**Relevant Coursework:** Data Structures, Database Systems, Cyber Defense & Risk Management, Computer Networks, Discrete Math
+**Relevant Coursework:** Principles of Cybersecurity, Data Structures, Computer Networks, Systems Programming, Database Systems, Software Development
 
 **Certifications:** CompTIA Security+, Google Cybersecurity Professional Certificate, AWS Certified Cloud Practicioner
 
