@@ -27,6 +27,7 @@ I'm passionate about Blue Team operations, including digital forensics, incident
 - Password Manager & Generator w/ SHA-256 (https://github.com/thenicktorres/Password-Generator-Manager-w-SHA-256) 
 - Web Application Security Scanner with Python (https://github.com/thenicktorres/Simple-Web-Application-Security-Scanner-with-Python/blob/main/Scanner.py)
 - AI-Powered Security Risk Assessment Browser Extension (in progress...) (https://github.com/thenicktorres/RiskAI-Scanner)
+- Security Log Analyzer with Python ()
   
 ---
 
