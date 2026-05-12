@@ -18,28 +18,33 @@ I'm a 3rd-year Computer Science student at UGA focused on **blue team security, 
 
 **Certifications:** CompTIA Security+ · AWS Certified Cloud Practitioner · Google Cybersecurity Professional Certificate
 
----
 
-### 👨‍💻 Projects I'm proud of
-**[🛰 Azure Sentinel Live Attack Map](https://github.com/thenicktorres/honeypot-script-for-azure-sentinel-map)**  
+## 👨‍💻 Projects I'm proud of
+
+### [🛰 Azure Sentinel Live Attack Map](https://github.com/thenicktorres/honeypot-script-for-azure-sentinel-map)
 Deployed a honeypot on Azure and built a SIEM workflow in Microsoft Sentinel to visualize live RDP brute-force attacks geographically. PowerShell automation enriches failed login events with attacker IP geolocation before forwarding to Log Analytics.  
-*Stack: Azure, Microsoft Sentinel, PowerShell, KQL*
+**Stack:** Azure, Microsoft Sentinel, PowerShell, KQL
 
-**[🔐 Password Manager with SHA-256](https://github.com/thenicktorres/Password-Generator-Manager-w-SHA-256)**  
+
+### [🔐 Password Manager with SHA-256](https://github.com/thenicktorres/Password-Generator-Manager-w-SHA-256)
 A local password manager and generator that hashes credentials with SHA-256 and stores them in an encrypted vault. Built to learn how real password managers handle secrets at rest.  
-*Stack: Python, cryptography*
+**Stack:** Python, cryptography
 
-**[🌐 Web Application Security Scanner](https://github.com/thenicktorres/Simple-Web-Application-Security-Scanner-with-Python)**  
+
+### [🌐 Web Application Security Scanner](https://github.com/thenicktorres/Simple-Web-Application-Security-Scanner-with-Python)
 Python tool that scans web apps for common vulnerabilities — SQL injection, XSS, open ports, missing security headers. Generates a readable report for each target.  
-*Stack: Python, requests, BeautifulSoup*
+**Stack:** Python, requests, BeautifulSoup
 
-**[📊 Security Log Analyzer](https://github.com/thenicktorres/security-log-analyzer)**  
-Parses and analyzes security logs to surface suspicious patterns — [describe what it actually flags: failed login spikes, unusual IPs, etc.]. Built to practice the kind of triage work a SOC analyst does daily.  
-*Stack: Python*
 
-**[🤖 RiskAI Scanner — In Progress](https://github.com/thenicktorres/RiskAI-Scanner)**  
+### [📊 Security Log Analyzer](https://github.com/thenicktorres/security-log-analyzer)
+Parses and analyzes security logs to surface suspicious patterns — Built to practice the kind of triage work a SOC analyst does daily.  
+**Stack:** Python
+
+
+### [🤖 RiskAI Scanner](https://github.com/thenicktorres/RiskAI-Scanner)
 A browser extension that uses an LLM to assess the security risk of websites in real time — analyzing page content, permissions, and behavior to warn users before they interact with something sketchy. Currently building out the backend.  
-*Stack: JavaScript, Python, OpenAI API*
+**Stack:** JavaScript, Python, OpenAI API
+
 ---
 
 ### 🕵️ Blue Team CTFs
@@ -54,7 +59,7 @@ Completed 6 blue team challenges on [CyberDefenders](https://cyberdefenders.org/
 - **[L'espion](https://cyberdefenders.org/blueteam-ctf-challenges/achievements/thenicktorres/lespion/)** — Threat intel / OSINT. Investigated an insider threat by pivoting from a leaked GitHub repo (exposed API key, base64-encoded credentials, an XMRig miner) through social media and reverse image search to track the insider's movements and identify the company's location.
 
 ---
-### 🌱 What I'm learning right now
+### 📚 What I'm learning right now
 
 - Finishing out RiskAI Scanner and writing up what I learn
 - Going deeper on AI Security and Digital Forensics
@@ -67,9 +72,8 @@ Completed 6 blue team challenges on [CyberDefenders](https://cyberdefenders.org/
 - **Email:** torresnicholas13@gmail.com
 ---
 
-### 📚 Outside of tech
+### 🌎 Outside of tech
 
 Brazilian-American, German Shepherd dad 🐕, lifelong soccer player and FC Barcelona fan, salsa & bachata dancer, and someone who'd rather be on a soccer field or offroad somewhere than indoors.
 
 ---
-
