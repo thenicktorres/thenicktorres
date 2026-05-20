@@ -2,7 +2,7 @@
 
 I'm a 3rd-year Computer Science student at UGA focused on **blue team security, digital forensics, and backend development**. I like building things that detect threats, investigate incidents, and make systems harder to break.
 
-🎯 **Currently seeking Summer 2026 internships** in SOC analysis, digital forensics, incident response, IT, or secure software development.
+🎯 **Currently seeking Summer 2026 internships** in Cybersecurity or secure software development.
 
 ---
 
