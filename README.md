@@ -69,7 +69,7 @@ Completed 6 blue team challenges on [CyberDefenders](https://cyberdefenders.org/
 ### 📫 Get in touch
 
 - **LinkedIn:** https://www.linkedin.com/in/nick-torres11/
-- **Email:** torresnicholas13@gmail.com
+- **Email:** nicktorres.work@gmail.com
 ---
 
 ### 🌎 Outside of tech
