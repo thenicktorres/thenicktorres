@@ -1,8 +1,8 @@
 ### Hey, I'm Nick 👋
 
-I'm a 3rd-year Computer Science student at UGA focused on **blue team security, digital forensics, and backend development**. I like building things that detect threats, investigate incidents, and make systems harder to break.
+I'm a 3rd-year Computer Science student at UGA focused on **Cybersecurity**. I like building things that detect threats, investigate incidents, and breaking into systems so developers can make them harder to break.
 
-🎯 **Currently seeking Summer 2026 internships** in Cybersecurity or secure software development.
+🎯 **Currently seeking internships** in Cybersecurity.
 
 ---
 
@@ -56,14 +56,10 @@ Completed 6 blue team challenges on [CyberDefenders](https://cyberdefenders.org/
 - **[Amadey](https://cyberdefenders.org/blueteam-ctf-challenges/achievements/thenicktorres/amadey/)** — Endpoint forensics. Analyzed a memory dump with Volatility 3 to reconstruct an Amadey Trojan infection: traced the parent process, located its on-disk path, identified the C2 IP, recovered dropped payloads, and uncovered the persistence mechanism.
 - **[L'espion](https://cyberdefenders.org/blueteam-ctf-challenges/achievements/thenicktorres/lespion/)** — Threat intel / OSINT. Investigated an insider threat by pivoting from a leaked GitHub repo (exposed API key, base64-encoded credentials, an XMRig miner) through social media and reverse image search to track the insider's movements and identify the company's location.
 
+
 ---
-### 📚 What I'm learning right now
 
-- Finishing out RiskAI Scanner and writing up what I learn
-- Going deeper on AI Security and Digital Forensics
-- Working through Network+ certification
 
---- 
 ### 📫 Get in touch
 
 - **LinkedIn:** https://www.linkedin.com/in/nick-torres11/
