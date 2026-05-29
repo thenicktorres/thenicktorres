@@ -8,15 +8,13 @@ I'm a 3rd-year Computer Science student at UGA focused on **blue team security, 
 
 ### 🧰 What I work with
 
-**Languages:** Python · Java · SQL · R  
+**Languages:** Python · Java · SQL 
 
 **Security & Forensics:** Microsoft Sentinel · Wireshark · VirusTotal · MITRE ATT&CK · Splunk
 
 **Operating Systems:** Linux, macOS, Windows, Unix
 
 **Cloud / Virtualization:** AWS, Microsoft Azure, VMware 
-
-**Certifications:** CompTIA Security+ · AWS Certified Cloud Practitioner · Google Cybersecurity Professional Certificate
 
 
 ## 👨‍💻 Projects I'm proud of
@@ -70,10 +68,4 @@ Completed 6 blue team challenges on [CyberDefenders](https://cyberdefenders.org/
 
 - **LinkedIn:** https://www.linkedin.com/in/nick-torres11/
 - **Email:** nicktorres.work@gmail.com
----
-
-### 🌎 Outside of tech
-
-Brazilian-American, German Shepherd dad 🐕, lifelong soccer player and FC Barcelona fan, salsa & bachata dancer, and someone who'd rather be on a soccer field or offroad somewhere than indoors.
-
 ---
