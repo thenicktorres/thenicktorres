@@ -38,11 +38,6 @@ Python tool that scans web apps for common vulnerabilities — SQL injection, XS
 Parses and analyzes security logs to surface suspicious patterns — Built to practice the kind of triage work a SOC analyst does daily.  
 **Stack:** Python
 
-
-### [🤖 RiskAI Scanner](https://github.com/thenicktorres/RiskAI-Scanner)
-A browser extension that uses an LLM to assess the security risk of websites in real time — analyzing page content, permissions, and behavior to warn users before they interact with something sketchy. Currently building out the backend.  
-**Stack:** JavaScript, Python, OpenAI API
-
 ---
 
 ### 🕵️ Blue Team CTFs
