@@ -1,6 +1,6 @@
 ### Hey, I'm Nick 👋
 
-I'm a 3rd-year Computer Science student at UGA focused on **Cybersecurity**. I like building things that detect threats, investigate incidents, and breaking into systems so developers can make them harder to break.
+I'm a 4th-year Computer Science student at UGA focused on **Cybersecurity**. I like building things that detect threats, investigate incidents, and breaking into systems so developers can make them harder to break.
 
 🎯 **Currently seeking internships** in Cybersecurity.
 
@@ -8,9 +8,9 @@ I'm a 3rd-year Computer Science student at UGA focused on **Cybersecurity**. I l
 
 ### 🧰 What I work with
 
-**Languages:** Python · Java · SQL 
+**Languages:** Python · Java · SQL · C/C++ 
 
-**Security & Forensics:** Microsoft Sentinel · Wireshark · VirusTotal · MITRE ATT&CK · Splunk
+**Security & Forensics:** Microsoft Sentinel · Wireshark · VirusTotal · MITRE ATT&CK · Splunk · Nmap · Metasploit
 
 **Operating Systems:** Linux, macOS, Windows, Unix
 
