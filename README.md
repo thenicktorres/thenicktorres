@@ -14,7 +14,6 @@ Deployed a honeypot on Azure and built a SIEM workflow in Microsoft Sentinel to 
 A local password manager and generator that hashes credentials with SHA-256 and stores them in an encrypted vault. Built to learn how real password managers handle secrets at rest.  
 **Stack:** Python, cryptography
 
-
 ### [🖥️ Code 787 Barbershop Website](Private Repo due to privacy concerns from business owner/until fully launched/shipped TBD)
  A full-stack booking platform for a live client with production-ready architecture
  **Stack:** React, Spring Boot, PostgreSQL, Kali Linux
