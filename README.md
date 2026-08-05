@@ -16,6 +16,7 @@ A local password manager and generator that hashes credentials with SHA-256 and 
 
 ### 🖥️ Code 787 Barbershop Website
  Private Repo due to privacy concerns from business owner/until fully launched/shipped TBD
+ 
  A full-stack booking platform for a live client with production-ready architecture
  **Stack:** React, Spring Boot, PostgreSQL, Kali Linux
 
