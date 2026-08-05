@@ -2,20 +2,6 @@
 
 I'm a 4th-year Computer Science student at UGA focused on **Cybersecurity**. I like building things that detect threats, investigate incidents, and breaking into systems so developers can make them harder to break.
 
-🎯 **Currently seeking internships** in Cybersecurity.
-
----
-
-### 🧰 What I work with
-
-**Languages:** Python · Java · SQL · C/C++ 
-
-**Security & Forensics:** Microsoft Sentinel · Wireshark · VirusTotal · MITRE ATT&CK · Splunk · Nmap · Metasploit
-
-**Operating Systems:** Linux, macOS, Windows, Unix
-
-**Cloud / Virtualization:** AWS, Microsoft Azure, VMware 
-
 
 ## 👨‍💻 Projects I'm proud of
 
@@ -29,14 +15,11 @@ A local password manager and generator that hashes credentials with SHA-256 and 
 **Stack:** Python, cryptography
 
 
-### [🌐 Web Application Security Scanner](https://github.com/thenicktorres/Simple-Web-Application-Security-Scanner-with-Python)
-Python tool that scans web apps for common vulnerabilities — SQL injection, XSS, open ports, missing security headers. Generates a readable report for each target.  
-**Stack:** Python, requests, BeautifulSoup
+### [🖥️ Code 787 Barbershop Website](Private Repo due to privacy concerns from business owner/until fully launched/shipped TBD)
+ A full-stack booking platform for a live client with production-ready architecture
+ **Stack:** React, Spring Boot, PostgreSQL, Kali Linux
 
 
-### [📊 Security Log Analyzer](https://github.com/thenicktorres/security-log-analyzer)
-Parses and analyzes security logs to surface suspicious patterns — Built to practice the kind of triage work a SOC analyst does daily.  
-**Stack:** Python
 
 ---
 
