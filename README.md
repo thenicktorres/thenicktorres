@@ -23,7 +23,7 @@ A local password manager and generator that hashes credentials with SHA-256 and 
 
 ### 📫 Get in touch
 
--**TryHackMe:**https://tryhackme.com/p/thenicktorres
+- **TryHackMe:** https://tryhackme.com/p/thenicktorres
 - **LinkedIn:** https://www.linkedin.com/in/nick-torres11/
 - **Email:** nicktorres.work@gmail.com
 ---
