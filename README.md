@@ -3,7 +3,7 @@
 I'm a 4th-year Computer Science student at UGA focused on **Cybersecurity**. I like building things that detect threats, investigate incidents, and breaking into systems so developers can make them harder to break.
 
 
-## 👨‍💻 Projects I'm proud of
+## 👨‍💻 My Projects
 
 ### [🛰 Azure Sentinel Live Attack Map](https://github.com/thenicktorres/honeypot-script-for-azure-sentinel-map)
 Deployed a honeypot on Azure and built a SIEM workflow in Microsoft Sentinel to visualize live RDP brute-force attacks geographically. PowerShell automation enriches failed login events with attacker IP geolocation before forwarding to Log Analytics.  
