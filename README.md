@@ -5,6 +5,9 @@ I'm a 4th-year Computer Science student at UGA focused on **Cybersecurity**. I l
 
 ## 👨‍💻 My Projects
 
+### [☁️ AWS Cloud Security Pipeline](https://github.com/thenicktorres/cloud-guardrails)
+An AWS cloud security automation platform that detects and remediates infrastructure misconfigurations to improve cloud security posture.
+
 ### [🛰 Azure Sentinel Live Attack Map](https://github.com/thenicktorres/honeypot-script-for-azure-sentinel-map)
 Deployed a honeypot on Azure and built a SIEM workflow in Microsoft Sentinel to visualize live RDP brute-force attacks geographically. PowerShell automation enriches failed login events with attacker IP geolocation before forwarding to Log Analytics.  
 **Stack:** Azure, Microsoft Sentinel, PowerShell, KQL
