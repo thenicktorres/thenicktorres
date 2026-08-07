@@ -1,6 +1,6 @@
 ### Hey, I'm Nick 👋
 
-I'm a 4th-year Computer Science student at UGA focused on **Cybersecurity**. I like building things that detect threats, investigate incidents, and breaking into systems so developers can make them harder to break.
+I'm a 4th-year **Computer Science** student at UGA focused on **Cybersecurity**. I like building things that detect threats, investigate incidents, and breaking into systems so developers can make them harder to break.
 
 
 ## 👨‍💻 My Projects
